@@ -1,3 +1,5 @@
+![Desktop Apps in One Click? Neon Snake banner](screenshots/banner_desktop_apps_one_click.jpg)
+
 # Neon Snake: a desktop app built with Claude
 
 A retro, neon Snake game built entirely by describing it to Claude in plain English, then tried as a Claude artifact and installed as a desktop app.
